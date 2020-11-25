@@ -86,7 +86,7 @@ author:
   name             : "Yongwoo Lee"
   avatar           : "/assets/images/LYW.jpg"
   bio              : "A Master student in Seoul National University(SNU)"
-  location         : "Somewhere"
+  location         : "Seoul, Republic of Korea"
   email            : "yongwoo.lee@mrl.snu.ac.kr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # github username, "my_github_username"
+  github           : "y0ngw00"
   gitlab           :
   google_plus      :
   keybase          :
